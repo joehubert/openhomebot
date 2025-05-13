@@ -1,4 +1,4 @@
-WHY - VISION & PURPOSE
+# WHY - VISION & PURPOSE
 * What problem are you solving and for whom?:
     * This document proposes a software platform that will empower a robot or digital assistant to provide automated, intelligent support to a family. The platform will orchestrate the interaction of 
 features offered by large language models (LLMs) with more traditional software application logic
@@ -20,7 +20,7 @@ features offered by large language models (LLMs) with more traditional software 
     * The primary users are owners of a robot or digital assistant that they use to perform tasks.
 * Why will they use it instead of alternatives?: 
     * Although the platform will sound similar to products such as Apple's Siri, Amazon Alexa, and more advanced chatbots, some benefits of this products include: the open source emphasis and no subscription costs, the private hosting of data for privacy and security concerns.
-WHAT - CORE REQUIREMENTS
+# WHAT - CORE REQUIREMENTS
 * What must your application do?:
     * User will be able to interact with the platform using voice as well as through mobile and web applications.
     * The system will persist conversations with users to support context-aware follow-up conversations and support.
@@ -42,7 +42,7 @@ WHAT - CORE REQUIREMENTS
 * What should the outcomes be?:
     * The system will support the use cases to the best of its ability.
     * The system will iterate with the user as necessary in order to succesfully accomplish each use case.
-HOW - PLANNING & IMPLEMENTATION
+# HOW - PLANNING & IMPLEMENTATION
 * What are the required stack components?:
     * Relational database for structured data
     * Non-relational database for semi-structured data
@@ -59,7 +59,7 @@ HOW - PLANNING & IMPLEMENTATION
     * The user may ask the system for help related to general knowledge, cooking, home repair, visual and audio object identification (requires visual and audio capabilities of the device), etc
 * What are the core interfaces?:
     * The core interfaces involve interactive voice and mobile/web applications.
-BUSINESS REQUIREMENTS
+# BUSINESS REQUIREMENTS
 * What are your access and authentication needs?:
     * Access to the web and mobile applications will require user authentication
     * Voice interaction may require authentication with sensitive data is involved.
